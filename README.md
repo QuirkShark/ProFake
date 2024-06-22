@@ -6,9 +6,9 @@ official code for 'ProFake: Detecting Deepfakes in the Wild against Quality Degr
 ## Dependencies
 
 ## Inference with Pretrained ProFake
-Preparation
-Real-world Degradation Simulation
-Inference on dataset(e.g., FF++)
+Preparation\
+Real-world Degradation Simulation\
+Inference on dataset(e.g., FF++)\
 Inference on images/videos
 
 ## Results
