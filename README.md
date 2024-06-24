@@ -1,5 +1,5 @@
 # ProFake
-official code for 'ProFake: Detecting Deepfakes in the Wild against Quality Degradation with Progressive Quality-adaptive Learning'' 
+Official code for 'ProFake: Detecting Deepfakes in the Wild against Quality Degradation with Progressive Quality-adaptive Learning'' 
 
 ## Robust Deepfake Detection to Combat Degraded Deepfakes in Real-world
 
