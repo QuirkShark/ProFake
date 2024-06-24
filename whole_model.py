@@ -8,7 +8,7 @@ from torch.utils.tensorboard import SummaryWriter
 import os
 import sys
 from models.xception import TransferModel
-from models.QDG import synthesizer
+from Generator import synthesizer
 from models.ConvNext import convnext_tiny,convnext_small,convnext_base,convnext_large,convnext_xlarge
 from models.am_softmax import AMSoftmaxLoss
 # from models.CPA import cpa
