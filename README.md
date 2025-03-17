@@ -6,17 +6,17 @@ The detailed code, dataset, and pre-trained model checkpoints used in this paper
 
 ### Dataset Structure
 After downloading, organize your dataset directory to match the structure of the FF++ dataset as follows:
+```
 dataset/
 ├── real/ # Directory for real images
-│ ├── 1/ # Subdirectory for real images with ID 1
-│ │ ├── 0001.png # Real image with frame index 0001 (4-digit format)
-│ ├── 2/ # Subdirectory for real images with ID 2
-│ │ ├── 0001.png # Real image with frame index 0001 (4-digit format)
+│   ├── 1/ # Subdirectory for real images with ID 1
+│   │   ├── 0001.png # Real image with frame index 0001 (4-digit format)
+│   ├── 2/ # Subdirectory for real images with ID 2
+│   │   ├── 0001.png # Real image with frame index 0001 (4-digit format)
 ├── fake/ # Directory for fake images
-│ ├── 01_23/ # Subdirectory for fake images with ID 01_23 (source_target)
-│ │ ├── 0001.png # Fake image with frame index 0001 (4-digit format)
-
-
+│   ├── 01_23/ # Subdirectory for fake images with ID 01_23 (source_target)
+│   │   ├── 0001.png # Fake image with frame index 0001 (4-digit format)
+```
 
 ### Inference
 To run inference on your images, follow these steps:
